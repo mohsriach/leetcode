@@ -1,1 +1,2 @@
-
+[Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) is a list of popular coding questions asked in Software Engineering Interviews. 
+These questions cover most coding patterns in interviews. Most questions asked in a coding interview are related to one of these patterns. It is a good starting point to practice for coding interviews. 
